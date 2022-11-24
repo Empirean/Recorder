@@ -1,0 +1,32 @@
+[
+    {
+        "time": 1.2978227138519287,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            614,
+            992
+        ]
+    },
+    {
+        "time": 2.6736724376678467,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            669,
+            994
+        ]
+    },
+    {
+        "time": 4.1086320877075195,
+        "type": "keyDown",
+        "button": "Key.esc",
+        "pos": null
+    },
+    {
+        "time": 4.261207818984985,
+        "type": "keyUp",
+        "button": "Key.esc",
+        "pos": null
+    }
+]
